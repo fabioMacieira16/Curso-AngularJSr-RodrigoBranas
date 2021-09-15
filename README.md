@@ -1,1 +1,1 @@
-# Curso-AngularJSr-RodrigoBranas
+# Curso-JavaScript-RodrigoBranas
