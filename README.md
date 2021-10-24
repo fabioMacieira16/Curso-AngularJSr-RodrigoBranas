@@ -9,7 +9,16 @@
  - JavaScript #6 - Object
  - JavaScript #7 - Function
  - JavaScript #8 - Function parte 2
+ - JavaScript #9 - Array_concat
+ - JavaScript #9 - Array_every
+ - JavaScript #9 - Array_Filter
  - JavaScript #9 - Array_forEach
- - JavaScript #9 - Array_Filte
+ - JavaScript #9 - Array_join
+ - JavaScript #9 - Array_map
+ - JavaScript #9 - Array_reduce
+ - JavaScript #9 - Array_reverse
+ - JavaScript #9 - Array_slace
+ - JavaScript #9 - Array_some
+ - JavaScript #9 - Array_sort
 
 
