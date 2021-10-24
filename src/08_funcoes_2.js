@@ -9,9 +9,7 @@
      Uma função é um objeto que contém um bloco de código execultavel
 
      forma um bloco isolado, não sendo possível acessá-lo externamente
-
 */
-
 
 var counter = 0;
 

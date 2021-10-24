@@ -8,7 +8,7 @@
 var carro = ["Bmw", "Jeep", "Mercedes"];
 console.log("carro " + carro);
 // Modulo 02
-var carros = new Array("Bmw", "Jeep", "Mercedes");
+var carros = new Array("Bmw2", "Jeep", "Mercedes");
 console.log("carros: " + carros);
 
 // API Array
@@ -40,26 +40,6 @@ console.log(carros);
 carros.forEach(function (elemento){
     console.log(elemento)
 });
-
-var carrosPopulares = [{ 
-        marca: "Ford", modelo: "ka",
-        marca: "Chevrolet", modelo: "Corsa",
-        marca: "Fiat", modelo: "Palio",
- }];
-
- var carrosFord = [];
-
- carrosPopulares.forEach(function (elemento){
-    if(elemento.marca === "Ford").push()
-    console.log(elemento);
-});
-
-// var carrosBmw = carros2.filter(function(elemento){
-//     return elemento.marca === "Bmw";
-// });
-// console.log("CarrosBmw:", carrosBmw);
-
-
 
 
 
